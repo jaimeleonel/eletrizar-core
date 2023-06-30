@@ -1,2 +1,2 @@
 # eletrizar-core
-aspirante a ser um dev.
+aspirante a desenvolver projetos de controles ligando areas da elétrica tipo: Projetos, visanta a campo, programação, segurança, controle de produção, almoxarifado (EPI, EPC e Materias elétricos) e indicadores de gestão.
